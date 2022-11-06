@@ -1,6 +1,8 @@
 ## Hi, I'm Jason White 👋
 
-[![jason-white-789a49126](https://img.shields.io/badge/jason-white-789a49126.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jason-white-789a49126/)
+
+[![jason-white-789a49126](https://img.shields.io/badge/jasonwhite-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jason-white-789a49126/)
+<!-- [![jason-white-789a49126](https://img.shields.io/badge/jason-white-789a49126.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jason-white-789a49126/) -->
 <!-- [![GitHub Jason White](https://img.shields.io/github/followers/jmw5598?label=follow&style=social)](https://github.com/jmw5598) -->
 
 ---

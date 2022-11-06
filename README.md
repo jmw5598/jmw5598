@@ -1,7 +1,11 @@
 ## Hi, I'm Jason White 👋
 
 
-[![jason-white-789a49126](https://img.shields.io/badge/jasonwhite-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jason-white-789a49126/)
+[![jason-white-789a49126](https://img.shields.io/badge/portfolio-%2309B3AF.svg?style=for-the-badge&logo=&logoColor=white)](https://jasonwhite.xyz) [![jason-white-789a49126](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jason-white-789a49126/) [![jason-white-789a49126](https://img.shields.io/badge/stackoverflow-%23F58025.svg?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.jasonwhite.xyz)
+
+
+https://img.shields.io/badge/portfolio-%2309B3AF.svg?style=for-the-badge&logo=&logoColor=white
+
 <!-- [![jason-white-789a49126](https://img.shields.io/badge/jason-white-789a49126.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jason-white-789a49126/) -->
 <!-- [![GitHub Jason White](https://img.shields.io/github/followers/jmw5598?label=follow&style=social)](https://github.com/jmw5598) -->
 
